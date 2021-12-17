@@ -1,0 +1,44 @@
+{
+  "id": "2771404",
+  "name": "vue矢量图",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "201561",
+      "name": "3.1铃铛",
+      "font_class": "lingdang",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "2807216",
+      "name": "待办审批",
+      "font_class": "daibanshenpi",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "13604618",
+      "name": "个人待办",
+      "font_class": "gerendaiban",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "938392",
+      "name": "消息已读",
+      "font_class": "xinfengdakai",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "4784117",
+      "name": "未读点击后",
+      "font_class": "weidudianjihou",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    }
+  ]
+}
